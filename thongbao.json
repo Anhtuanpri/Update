@@ -1,0 +1,16 @@
+{
+  "title": "HƯỚNG DẪN SỬ DỤNG",
+  "footer": "© Tool by Lý Tiên Sinh x Vương Thần x Mạnh Tuấn",
+  "sections": [
+    {
+      "header": "1. CHỨC NĂNG SOI TU VI:",
+      "color": "#AA00FF",
+      "content": "Tool kết hợp dữ liệu từ 2 nguồn:<br>- Database Gốc (Cũ): Lấy Tu Vi thực tế.<br>- Database Mới (Của bạn): Cộng thêm ảo.<br>&nbsp;&nbsp;👉 Người lạ: <span style='color:#00E676; font-weight:bold;'>+50,000</span> Tu Vi.<br>&nbsp;&nbsp;👉 Người quen (Qua ngày): <span style='color:#00E676; font-weight:bold;'>+3,000</span> Tu Vi/ngày.<br>&nbsp;&nbsp;👉 Tự động lưu lên Server Online."
+    },
+    {
+      "header": "2. AUTO BOT (V59):",
+      "color": "#00E676",
+      "content": "- Quý đạo hữu sử dụng bằng cách mở 1 tab clone.<br>- Sau đó ấn bật tool và treo tab k tắt <span style='color:#FFD700; font-weight:bold;'>Lý Tiên Sinh đang tìm phương pháp tốt hơn</span> .<br>- hiện tại cách tốt nhất là vậy."
+    }
+  ]
+}
