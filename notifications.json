@@ -1,6 +1,6 @@
 {
   "fixed": [
-    { "type": "error", "msg":"💡 Đã có 1.4.5, fix add tk mới chạy task login nhưng k đăng nhập dc sau bản 1.4.4 fix chỉnh màu chữ chỉnh màu nền đặc biệt fix proxy nếu load login lỗi khi dùng proxy vui lòng tích vào ô vuông trên nút chạy tất cả" },
+    { "type": "error", "msg":"💡 Đã có 1.4.6, add quản lý  tab cho dễ fix add tk mới chạy task login nhưng k đăng nhập dc sau bản 1.4.4 fix chỉnh màu chữ chỉnh màu nền đặc biệt fix proxy nếu load login lỗi khi dùng proxy vui lòng tích vào ô vuông trên nút chạy tất cả" },
     { "type": "info", "msg": "ℹ️ https://hoathinh3d.moi ℹ️ Bật Warp 1.1.1.1        ℹ️ Phóng to: Ctrl + , Thu nhỏ: Ctrl - , Cài lại: Ctrl 0.  💡 Chuột phải > Sắp xếp task để ẩn task không cần dùng " }  ,
     { "type": "info", "msg":"💡 Chuột phải avatar vào thông tin tài khoản, chuột giữa vào web nhanh, chuột phải menu, double click mở chi tiết 💡 Kéo thả acc, group để đổi chỗ." }
   ],
