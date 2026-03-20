@@ -1,8 +1,8 @@
 {
-  "latest": "1.5.7",
+  "latest": "1.7.6",
   "versions": {
-    "1.5.7": {
-      "url": "https://github.com/Anhtuanpri/Update/releases/download/v1.5.7/1.5.7.zip"
+    "1.7.6": {
+      "url": "https://github.com/Anhtuanpri/dld/releases/download/v1.7.6/176.zip"
     },
     "1.1.0": {
       "url": "https://github.com/Anhtuanpri/Update/releases/download/v1.1.0/3.4.7.zip"
